@@ -1,3 +1,9 @@
+## 🎥 Demo GIF
+
+<p align="center">
+  <img src="images/demo.gif" width="70%">
+</p>
+
 <p align="center">
   <img src="images/banner.png" width="100%">
 </p>
@@ -54,16 +60,20 @@ Built using:
 
 ---
 
-## 🧪 Gesture Demonstration
+## ✋ Gesture Icons
 
-| Gesture | Action |
-|--------|--------|
-| ✊ **Fist** | Play / Pause |
-| 👉 **Swipe Right** | Next Track |
-| 👈 **Swipe Left** | Previous Track |
-| 🤏 **Pinch** | Volume Control |
-| 🖐 **Palm Up/Down** | Brightness Control |
-| ✋ **Forward/Backward** | Scroll |
+Below are icons representing each gesture used in the project:
+
+| Gesture | Icon | Meaning |
+|--------|------|---------|
+| Fist | ✊ | Play / Pause |
+| Swipe Right | 👉 | Next Track |
+| Swipe Left | 👈 | Previous Track |
+| Pinch | 🤏 | Volume Control |
+| Palm Up | ✋⬆️ | Increase Brightness |
+| Palm Down | ✋⬇️ | Decrease Brightness |
+| Palm Forward | ✋➡️ | Scroll Down |
+| Palm Backward | ✋⬅️ | Scroll Up |
 
 ---
 
